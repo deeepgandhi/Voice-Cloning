@@ -35,7 +35,7 @@ https://github.com/jjery2243542/adaptive_voice_conversion \
 Used the pretained model mentioned in the model
 
 
-Link to Real Time Voice Cloning:
+Link to Real Time Voice Cloning (Transfer Learning):
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 Link to Chinese Version:

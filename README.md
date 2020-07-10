@@ -2,11 +2,11 @@
 
 
 Link to Indian Datasets: \
-http://www.openslr.org/63/ \
-http://www.openslr.org/64/ \
-http://www.openslr.org/65/ \
-http://www.openslr.org/66/ \
-http://www.openslr.org/79/ \
+http://www.openslr.org/63/ 
+http://www.openslr.org/64/
+http://www.openslr.org/65/ 
+http://www.openslr.org/66/ 
+http://www.openslr.org/79/ 
 http://www.openslr.org/78/ 
 
 Dataset containing Indian Accent Speakers:

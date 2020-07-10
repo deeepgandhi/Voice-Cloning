@@ -23,7 +23,7 @@ https://www.dropbox.com/s/0ck82unm0bo0rxd/20180505_deepvoice3_ljspeech.json?dl=0
 
 
 
-Datasets Used for testing and training throughout: \
+Datasets used for testing and training throughout: \
 VCTK: \
 https://datashare.is.ed.ac.uk/handle/10283/2651 \
 Librispeech:\
@@ -44,4 +44,4 @@ https://github.com/KuangDD/zhrtvc
 Please go through this for all pretrained models:\
 https://github.com/CorentinJ/Real-Time-Voice-Cloning/issues/400
 
-
+Current pretrained.pt model in Real-Time-Voice-Cloning trained for 1000 steps

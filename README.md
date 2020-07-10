@@ -7,7 +7,7 @@ http://www.openslr.org/64/ \
 http://www.openslr.org/65/ \
 http://www.openslr.org/66/ \
 http://www.openslr.org/79/ \
-http://www.openslr.org/78/ \
+http://www.openslr.org/78/ 
 
 Dataset containing Indian Accent Speakers:
 https://www.iitm.ac.in/donlab/tts/index.php
@@ -15,7 +15,7 @@ https://www.iitm.ac.in/donlab/tts/index.php
 
 
 Link to deepvoice3 (Reproduced the speaker adaption part in the advanced section): \
-https://github.com/r9y9/deepvoice3_pytorch
+https://github.com/r9y9/deepvoice3_pytorch \
 Model Used:\
 https://www.dropbox.com/s/5ucl9remrwy5oeg/20180505_deepvoice3_checkpoint_step000640000.pth?dl=0
 Parameters:\
